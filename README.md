@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/645dbd3b-396d-49de-b330-17d465dba768" />
+<img width="1920" height="1080" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/d23fd474-9e5b-4c2a-9a10-26f66c3d0809" />
 # Online-quiz-system-mini-project
 Online Quiz System mini project document
 //index.html
